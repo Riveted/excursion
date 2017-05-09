@@ -1,3 +1,17 @@
+body {
+  background-color: black;
+}
+
 h1 {
-  color: red;
+  font-family: verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  align: center;
+}
+
+.dl {
+  font-size: 16px;
+  color: aquamarine;
+  text-align: center;
 }
